@@ -1,22 +1,24 @@
 {
   "users": [
     {
-      "name": "Margarita Hand",
-      "id": 4
-    },
-    {
-      "name": "Bill Tromp",
-      "id": 8
-    },
-    {
       "name": "Angela Kirlin",
       "id": 10
     },
     {
       "name": "Linda Rolfson",
       "id": 11
+    },
+    {
+      "name": "Boyd Halvorson Jr.",
+      "id": 12
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trips",
+      "userId": 10
+    }
+  ],
   "photos": []
 }
