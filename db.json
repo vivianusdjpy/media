@@ -1,24 +1,68 @@
 {
   "users": [
     {
-      "name": "Angela Kirlin",
-      "id": 10
+      "name": "Denise Robel",
+      "id": 1
     },
     {
-      "name": "Linda Rolfson",
-      "id": 11
+      "name": "Francisco Rolfson",
+      "id": 2
     },
     {
-      "name": "Boyd Halvorson Jr.",
-      "id": 12
+      "name": "Miss Sara Parisian",
+      "id": 3
+    },
+    {
+      "name": "Esther Yundt",
+      "id": 6
+    },
+    {
+      "name": "Mrs. Ginger Bernhard",
+      "id": 7
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trips",
-      "userId": 10
+      "userId": 1,
+      "title": "Unbranded Wooden Cheese",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Frozen Chicken",
+      "id": 2
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97611",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=25301",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15119",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16815",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75381",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39379",
+      "id": 9
+    }
+  ]
 }
